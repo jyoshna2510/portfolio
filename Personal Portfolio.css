@@ -171,7 +171,7 @@ section {
 }
 .about .row .info-container .box-container .box h3 span {
   color: #aaa;
-  font-weight: lighter;
+  font-weight:bold;
 }
 .about .row .count-container {
   flex: 1 1 42rem;
